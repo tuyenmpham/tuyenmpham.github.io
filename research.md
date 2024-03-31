@@ -43,8 +43,8 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1882869?ui
   <div class="slide-container">
     <div class="slide">
       <div>
-        <img src="/assets/img/Tensor-to-Scalar.pdf" alt="Image 1">
-        <div class="slick-caption"><center>Tensor-to-scalar ratio for power-law anisotropic infaltion with two-form field(arXiv:2309.02690)</center></div>
+        <img src="/assets/img/Tensor-to-Scalar.png" alt="Image 1">
+        <div class="slick-caption"><center>Tensor-to-scalar ratio for power-law anisotropic inflation with two-form field(arXiv:2309.02690)</center></div>
       </div>
       <div>
         <img src="/assets/img/hz-gp_orig.png" alt="Image 2">
@@ -75,16 +75,16 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1882869?ui
 
 ### Research Statement
 
-The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of cosmic inflation, dark energy and the Hubble tension. As a cosmologist, I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as anisotropic inflation models in Bianchi type I spacetime, while also making testable predictions about astrophysical and cosmological phenomena based on CMB physics. <br />
+The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of cosmic inflation, dark energy, and the Hubble tension. As a cosmologist, I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as anisotropic inflation models in Bianchi type I spacetime, while also making testable predictions about astrophysical and cosmological phenomena based on CMB physics. <br />
 
-In particular, I am fascinated by the anisotropic inflation models in scalar-tensor theory with scalar field non-minimal couple to vector field or two-form fields. Furthermore, I am interested the solutions and predictions in General Relativity such as Black holes, Worm holes and gravitational waves. <br />
+In particular, I am fascinated by the anisotropic inflation models in scalar-tensor theory with scalar field non-minimal couple to vector field or two-form fields. Furthermore, I am interested in the solutions and predictions in General Relativity such as Blackholes, Wormholes, and gravitational waves. <br />
 
 My research objectives included finding models of cosmic inflation consistent with modern cosmological observations. Additionally, find connections between cosmology and other science and technology disciplines to stay up to date with the latest research in my field of interest and collaborate with other researchers to expand the scope of research. my research and produce more impactful research. <br />
 
 Overall, My goal is to contribute to the paradigm shift in cosmology by developing new theories and models that tackle its fundamental questions and puzzles. Through collaboration and staying updated, I aim to make significant contributions to our understanding of the Universe.
 
 ### Experience
-- Research Assistant, [Phenikaa Institute for Advanced Study, Phenikaa University](https://pias.edu.vn/), 2020 - <br />
+- Research Assistant, [Phenikaa Institute for Advanced Study, Phenikaa University](https://pias.edu.vn/), 2020 - pres <br />
   
 ### Education 
 - MS Physics, [Graduate University of Science and Technology, Vietnam Academy
