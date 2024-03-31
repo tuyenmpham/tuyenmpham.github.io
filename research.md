@@ -44,15 +44,15 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1882869?ui
     <div class="slide">
       <div>
         <img src="/assets/img/Tensor-to-Scalar.png" alt="Image 1">
-        <div class="slick-caption"><center>Tensor-to-scalar ratio for power-law anisotropic inflation with two-form field(arXiv:2309.02690)</center></div>
+        <div class="slick-caption"><center>Tensor-to-scalar ratio for power-law anisotropic inflation with two-form field (arXiv:2309.02690)</center></div>
       </div>
       <div>
         <img src="/assets/img/Numerical-DBI.png" alt="Image 2">
-        <div class="slick-caption"><center>Hubble expansion rate reconstructed from observational data via Gaussian Processes as a representative of machine learning (arXiv:2105.12970)</center></div>
+        <div class="slick-caption"><center>Attractor behavior of anisotropic inflation in two-form DBI model (arXiv:2309.02690)</center></div>
       </div>
       <div>
         <img src="/assets/img/Numerical-k.png" alt="Image 3">
-        <div class="slick-caption"><center>Well tempering-in action featuring a de Sitter vacuum-final state independent of the initial conditions and size of the cosmological constant (arXiv:2107.08762)</center></div>
+        <div class="slick-caption"><center>Attractor behavior of anisotropic inflation in two-form k model (arXiv:2309.02690)</center></div>
       </div>
     </div>
   </div>
