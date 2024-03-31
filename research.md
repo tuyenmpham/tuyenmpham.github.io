@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Interests 
--Cosmology:  Cosmic inflation, Cosmic no-hair conjecture, inflationary models of noncanonical scalar fields, scalar-tensor gravity, Gauss-Bonnet gravity, Hubble tension, CMB physics, Dark Energy
+- Cosmology:  Cosmic inflation, Cosmic no-hair conjecture, inflationary models of non-canonical scalar fields, scalar-tensor gravity, Gauss-Bonnet gravity, Hubble tension, CMB physics, Dark Energy
 - Gravitational physics: Black holes, wormholes, and gravitational waves
 - Computer Science: Machine Learning, Data Analysis
 
