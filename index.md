@@ -4,10 +4,10 @@ layout: default
 
 > "What one man calls God, another calls the laws of physics." - Nikola Tesla 
 
-Welcome to my website! I'm Tuyen, a theoretical reseacher dedicated to uncovering the mysteries of the Universe.Here, I'll be sharing my latest discoveries and insights into cutting-edge developments in the field. Dive into my [research](./research), and [readings](https://twitter.com/TuyenPh57861691) to expand your knowledge and find inspiration. Join me on this exciting journey of cosmic exploration, and feel free to [reach out](mailto:tuyenmpham92@gmail.com) with any questions or comments. Let's embark on this cosmic voyage together!
+Welcome to my website! I'm Tuyen, a theoretical researcher dedicated to uncovering the mysteries of the Universe. Here, I'll be sharing my latest discoveries and insights into cutting-edge developments in the field. Dive into my [research](./research), and [readings](https://twitter.com/TuyenPh57861691) to expand your knowledge and find inspiration. Join me on this exciting journey of cosmic exploration, and feel free to [reach out](mailto:tuyenmpham92@gmail.com) with any questions or comments. Let's embark on this cosmic voyage together!
 
-<center>Me as meme (concepted with VMG)</center>
-<center><img src="./assets/img/measmeme.png"  width="75%"></center>
+<center>This graphic shows a timeline of the universe based on the Big Bang theory and inflation models. (Image credit: NASA/WMAP)</center>
+<center><img src="./assets/img/Timeline of the Universe.png"  width="75%"></center>
 
 <br />
 Reading starter pack for a good time: <br />
