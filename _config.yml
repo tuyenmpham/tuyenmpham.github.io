@@ -27,13 +27,11 @@ navigation:
   - name: Research
     link: ./research.html
     sublist:
-      - name: Highlights
-        link: ./research.html#highlights
-      - name: Statement
+      - name: Research Statement
         link: ./research.html#research-statement
       - name: Experience
         link: ./research.html#experience
-      - name: My CV
+      - name: My Curriculum Vitae
         link: ./TuyenMPham_CV.pdf
   - name: Bio
     link: ./bio.html
