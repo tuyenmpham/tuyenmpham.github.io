@@ -43,7 +43,7 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1882869?ui
   <div class="slide-container">
     <div class="slide">
       <div>
-        <img src="/assets/img/Tensor-to-Scalar.png" alt="Image 1">
+        <img src="/assets/img/TensortoScalar.png" alt="Image 1">
         <div class="slick-caption"><center>Tensor-to-scalar ratio for power-law anisotropic inflation with two-form field (arXiv:2309.02690)</center></div>
       </div>
       <div>
