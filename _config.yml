@@ -34,7 +34,7 @@ navigation:
       - name: Experience
         link: ./research.html#experience
       - name: My CV
-        link: ./TuyenMpham_CV.pdf
+        link: ./TuyenMPham_CV.pdf
   - name: Teaching
     link: ./teaching.html
   - name: Bio
