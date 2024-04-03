@@ -31,9 +31,9 @@ navigation:
         link: ./research.html#research-statement
       - name: Experience
         link: ./research.html#experience
-      - name: My Curriculum Vitae
+      - name: My CV/Resume
         link: ./TuyenMPham_CV.pdf
-  - name: Bio
+  - name: About
     link: ./bio.html
-  - name: Contact
+  - name: Contact Me
     link: ./contact.html
