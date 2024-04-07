@@ -12,6 +12,12 @@ Papers: <br />
 - T. M. Pham, D. H. Nguyen, T. Q. Do, and W. F. Kao, “Anisotropic power-law inflation for models of
 non-canonical scalar fields non-minimally coupled to a two-form field,” [Eur. Phys. J. C, vol. 84, no. 1,
 p. 105, 2024.](https://doi.org/10.1140/epjc/s10052-024-12436-y), [arXiv:2309.02690](https://arxiv.org/abs/2309.02690). <br />
+
+- T. M. Pham, D. H. Nguyen, T. Q. Do, and W. F. Kao, “Stability investigations of de Sitter inflationary
+solutions in power-law extensions of the Starobinsky model,” Mar. 2024., [arXiv:2403.02623](https://arxiv.org/abs/2403.02623). <br />
+
+- T. M. Pham, D. H. Nguyen, and T. Q. Do, “k-Gauss-Bonnet inflation,” Jul. 2021, [arXiv:2107.05926](https://arxiv.org/abs/2107.05926). <br /> 
+
 - D. H. Nguyen, T. M. Pham, and T. Q. Do, “Anisotropic constant-roll inflation for the
 Dirac–Born–Infeld model,” [Eur. Phys. J. C, vol. 81, no. 9, p. 839, 2021.](https://doi.org/10.1140/epjc/s10052-021-09652-1), [arXiv:2107.14115](https://arxiv.org/abs/2107.14115). <br />
 
