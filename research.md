@@ -97,6 +97,6 @@ of Science and Technology](https://gust.edu.vn/) *Most Outstanding M.S.*, 2020 -
 - BS Physics, [VNU University of Science, Vietnam National University, Hanoi](https://hus.vnu.edu.vn/) *Most Outstanding B.S., Best Thesis*, 2016 - 2020 <br />
 
 ### Miscellaneous
-Languages: English (fluent), Vietnamese (mother tongue) <br />
+Languages: English (intermediate), Vietnamese (mother tongue) <br />
 Coding: Python, Mathematica, Maple, LaTeX
 
