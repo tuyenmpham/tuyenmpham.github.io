@@ -8,13 +8,12 @@ layout: default
 - Computer Science: Machine Learning, Data Analysis
 
 Papers: <br />
+- T. M. Pham, D. H. Nguyen, T. Q. Do, and W. F. Kao, “Stability investigations of de Sitter inflationary solutions in power-law extensions of the Starobinsky model,” [Eur. Phys. J. C, vol. 84, no. 7,
+p. 729, 2024.](https://doi.org/10.1140/epjc/s10052-024-13083-z), [arXiv:2403.02623](https://arxiv.org/abs/2403.02623). <br />
 
 - T. M. Pham, D. H. Nguyen, T. Q. Do, and W. F. Kao, “Anisotropic power-law inflation for models of
 non-canonical scalar fields non-minimally coupled to a two-form field,” [Eur. Phys. J. C, vol. 84, no. 1,
 p. 105, 2024.](https://doi.org/10.1140/epjc/s10052-024-12436-y), [arXiv:2309.02690](https://arxiv.org/abs/2309.02690). <br />
-
-- T. M. Pham, D. H. Nguyen, T. Q. Do, and W. F. Kao, “Stability investigations of de Sitter inflationary
-solutions in power-law extensions of the Starobinsky model,” Mar. 2024., [arXiv:2403.02623](https://arxiv.org/abs/2403.02623). <br />
 
 - T. M. Pham, D. H. Nguyen, and T. Q. Do, “k-Gauss-Bonnet inflation,” Jul. 2021, [arXiv:2107.05926](https://arxiv.org/abs/2107.05926). <br /> 
 
