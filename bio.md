@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-Greetings, My name is Phạm Mạnh Tuyến. I am a researcher in cosmology and gravitational physics, I come from Hai Duong City, Vietnam, where I completed my high school education and pursued part of my seminary studies before delving into my passion for physics. 
+Greetings, My name is Phạm Mạnh Tuyến. I am a researcher in cosmology and gravitational physics, I come from Hai Duong City, Vietnam, where I completed my high school education and pursued part of my seminary studies before truly realizing my passion for physics.
 
-I also spent another 4 years studying economics and working for 1 year after graduating to truly understand how much I enjoy science, inspired by reading Carl Sagan's book "Cosmos" and Christopher Nolan's movie "Interstellar"; I was immersed in my love for the vast universe and the mysteries yet to be discovered by humanity. 
+I also spent another four years studying economics and working for one year after graduating to truly understand how much I enjoy science. Inspired by reading Carl Sagan's book Cosmos and Christopher Nolan's movie Interstellar, I was immersed in my love for the vast universe and the mysteries yet to be discovered by humanity. 
 
-Therefore, I decided to retake the university entrance exam and study physics at VNU University of Sciences. Here, I completed my graduation in theoretical physics and mathematical physics with excellent grades.
+Therefore, I decided to retake the university entrance exam and study physics at VNU University of Sciences. Here, I graduated with excellent grades in theoretical physics and mathematical physics.
 
 After receiving a bachelor's degree in physics. I underwent rigorous scientific training, earning my MS in 2022 from the esteemed [Graduate University of Science and Technology](https://gust.edu.vn/vn) at the [Vietnam Academy
 of Science and Technology](https://gust.edu.vn/vn).
