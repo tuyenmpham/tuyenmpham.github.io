@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> "What one man calls God, another calls the laws of physics." - Nikola Tesla 
+> "Lying between atoms and stars, we continue to expand our horizons of discovery, reaching from smallest particles to the vast expanse of the Cosmos" - Carl Sagan
 
 Welcome to my website! I’m Tuyen, a researcher uncovering the mysteries of the Universe.
 
